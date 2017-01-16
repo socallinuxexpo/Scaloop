@@ -2,13 +2,13 @@
 Rideshare coordination for SCaLE
 
 A way for people to coordinate carpools to SCaLE.
-
-This will be done by:
-1) Grouping people together by the proximity to each other from their zip codes (using registration info).
-2) Send out an email to them stating how many people are close to them that are going to SCaLE.
-3) In the above email, have a link to a web page where they could sign up with their email address and zip.
-4) Will send out a email with all of the people who are close to each other with a list of socallinuxexpo.org alias emails where they could contact each other to decide if they would like to share a ride. It will be up to them if and how much information they would like to exchange to setup a rideshare.
-
+  
+This will be done by:  
+1) Grouping people together by the proximity to each other from their zip codes (using registration info).  
+2) Send out an email to them stating how many people are close to them that are going to SCaLE.  
+3) In the above email, have a link to a web page where they could sign up with their email address and zip.  
+4) Will send out a email with all of the people who are close to each other with a list of socallinuxexpo.org alias emails where they could contact each other to decide if they would like to share a ride. It will be up to them if and how much information they would like to exchange to setup a rideshare.  
+  
 Also, would like to have a webpage with a Openstreet map with push pins of where everyone is coming from. And a forum where people could make general announcements of either offering rides, or looking for a ride.
 
 ## Example
