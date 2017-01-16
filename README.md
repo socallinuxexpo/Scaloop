@@ -14,7 +14,7 @@ Also, would like to have a webpage with a Openstreet map with push pins of where
 ## Example
 
 Say someone from Encino registers, zip code 91436 (circled in Red). Which has neighboring zips 91315, 91335, 91406, 91411, 91402, 90049 (circled in Green). And close zips 91405, 91401, 91423, 90077, 90272, 91356 (circled in Yellow)
-Scaloop/Encino_graphic.png 
+S Scaloop/Encino_graphic.png 
 
 
 They will get an email 4(?) weeks (see issues, to_decide)  before scale saying something like:  
